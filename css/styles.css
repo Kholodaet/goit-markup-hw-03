@@ -1,0 +1,136 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+  font-size: 16px;
+
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.webstudio {
+  font-size: 18px;
+  text-decoration: none;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+
+  line-height: 1.17;
+  text-transform: uppercase;
+  color: #4d5ae5;
+  letter-spacing: 0.03em;
+}
+
+.studio {
+  color: #2e2f42;
+}
+
+.studionav {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.studionav:hover,
+.studionav:focus {
+  color: #404bbf;
+}
+
+.address {
+  font-style: normal;
+}
+.adre_a {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.adre_a:hover,
+.adre_a:focus {
+  color: #404bbf;
+}
+.adre_a {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.adre_a:hover,
+.adre_a:focus {
+  color: #404bbf;
+}
+.first-section {
+  background-color: #2e2f42;
+}
+.first-title {
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #ffffff;
+}
+.first-button {
+  background-color: #4d5ae5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+}
+.first-button:hover,
+.first-button:focus {
+  background-color: #404bbf;
+  cursor: pointer;
+}
+.title-section-s {
+  color: #2e2f42;
+
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.p-section-s {
+  color: #434455;
+  font-size: 16px;
+
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.third-section {
+  background-color: #f4f4fd;
+}
+.third-section-title {
+  color: #2e2f42;
+  text-align: center;
+  font-size: 36px;
+
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+}
+.images-background {
+  background-color: #ffffff;
+}
+.footer {
+  background-color: #2e2f42;
+}
+.studio-footer {
+  color: #f4f4fd;
+}
+.p-footer {
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
