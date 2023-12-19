@@ -22,6 +22,10 @@ ul {
   width: 1158px;
   margin: 0 auto;
   padding: 0 15px 0 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 .header-nav {
@@ -66,6 +70,7 @@ ul {
 
 .address {
   font-style: normal;
+  padding-left: 332px;
 }
 .adress-list {
   display: flex;
@@ -95,6 +100,7 @@ ul {
   background-color: #2e2f42;
   padding-top: 188px;
   padding-bottom: 188px;
+  text-align: center;
 }
 .first-section-title {
   font-size: 56px;
@@ -276,4 +282,9 @@ img {
 }
 .second-section-item {
   flex-basis: calc((100% - 72px) / 4);
+}
+.container-footer {
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px 0 15px;
 }
