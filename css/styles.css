@@ -267,7 +267,7 @@ img {
   clip-path: inset(100%);
 }
 .fourth-section-item {
-  width: calc((100% - (5 * 24px)) / 6);
+  width: calc((100% - 48px) / 3);
 }
 .second-section-item {
   flex-basis: calc((100% - 72px) / 4);
