@@ -130,7 +130,7 @@ body {
   gap: 24px;
 }
 .second-section-item {
-  width: calc((100% - 72px) / 4);
+  flex-basis: calc((100% - 72px) / 4);
 }
 .title-section-s {
   color: #2e2f42;
@@ -171,7 +171,7 @@ body {
 }
 .images-background {
   background-color: #ffffff;
-  width: calc((100% - 72px) / 4);
+  flex-basis: calc((100% - 72px) / 4);
   border-radius: 0px 0px 4px 4px;
 }
 .container-for-worker {
@@ -266,4 +266,6 @@ img {
   overflow: hidden;
   clip: rect(0, 0, 0, 0);
   border: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
 }
