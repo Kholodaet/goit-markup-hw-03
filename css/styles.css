@@ -80,7 +80,7 @@ ul {
 
 .address {
   font-style: normal;
-  padding-left: 332px;
+  margin: auto;
 }
 .adress-list {
   display: flex;
